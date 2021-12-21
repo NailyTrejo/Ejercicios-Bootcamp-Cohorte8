@@ -1,0 +1,26 @@
+h1{
+    text-align: right;
+    font-family: monospace;
+
+}
+h2{
+    font-family: monospace;
+}
+body{
+    background-color: rgb(150, 232, 235);
+    text-align: justify;
+}
+.naranja{
+    color: orangered;
+}
+.textomarcado{
+    color: orange;
+}
+.verde{
+    background-color: white;
+    color: green;
+}
+p{
+    text-indent: 30px;
+    font-family: sans-serif;
+}

@@ -1,0 +1,40 @@
+/*Comentario*/
+/*para llamar la clase tengo que poner el .+elnombre que le di*/
+.encabezado {
+    /*font-size tamaño de fuente, medidas comunes: px,%, em, rem */
+     font-size: 72px;
+     /*Color de fuente*/
+    color: rgb(163, 53, 236);
+     /*Color de fondo, colores en hexadecimal*/
+     background-color: #fbff24;
+     /*text-aling: nos permite alinear el texto*/
+      text-align: center;
+     /*Transformar el texto*/
+    text-transform: capitalize;
+    }
+
+body{
+    background-color: #e1e1e1;
+    }
+/*id*/
+#texto{
+    color: blue;
+    background-color: red;
+    font-size: 24px;
+    font-style: italic;
+}    
+
+/*Especificidad, entre mas especifico es el que mas predomina*/
+.texto{
+    color: white;
+    background-color: black;
+    }
+p {
+    color:white;
+    background-color: dimgray;
+}   
+
+p{
+    color: yellow;
+    background-color: teal;
+}

@@ -1,0 +1,26 @@
+h1{
+    font-family: monospace;
+    font-size: 30px;
+}
+
+body{
+    background-color: seagreen;
+   
+}
+.texto1{
+   color: white;
+   font-style: italic; 
+}
+.texto-ama{
+    color:rgb(241, 241, 115);
+    font-family: sans-serif;
+}
+.texto-rosa{
+    color:rgba(238, 71, 127, 0.904);
+    font-family: Lucida Sans;
+
+}
+.textorosa{
+    color: rgb(8, 8, 8);
+    font-family:Franklin Gothic Medium;
+}
