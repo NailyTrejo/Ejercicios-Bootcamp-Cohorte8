@@ -1,0 +1,64 @@
+body{
+    margin: 20px;
+    border: turquoise;
+}
+p{
+    text-indent: 30px;
+    font-family: Franklin Gothic;
+    color: white;
+  
+}
+.formulario{ 
+    color: white;
+    font-family: Franklin Gothic;
+    background-color: green;
+    border: 10px solid turquoise;
+    height: 420px;
+    width: 375px;
+    padding: 25px;
+    border-radius: 10px;
+  
+    
+}
+label{
+    display: inline-block;
+    width: 100px; ;
+    margin: 10px;
+    border:3px;
+    color: white;
+}
+
+
+#nombre{
+        border: 3px solid red;
+        border-radius: 2px;    
+}
+
+#email{
+    border: 3px solid red;
+    border-radius: 2px;
+}
+
+#telefono{
+    border: 3px solid red;
+    border-radius: 2px;
+}
+
+#pais{
+    border: 3px solid red;
+    border-radius: 2px;
+}
+
+#numero{
+    border: 3px solid red;
+    border-radius: 2px;
+}
+
+#nombre-tarjeta{
+    border: 3px solid red;
+    border-radius: 2px;
+}
+
+.enviar{
+    text-indent: 30px;
+}
