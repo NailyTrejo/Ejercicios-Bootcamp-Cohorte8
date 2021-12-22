@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Oooh+Baby&family=Shizuru&family=Yuji+Hentaigana+Akari&display=swap'); /*importando*/
+
+p{
+    font-family: 'Oooh Baby', cursive;
+   font-size: 30px;
+   /*font-weight para darle grosor a la letra*/
+   font-weight: 700;
+}
+h1{
+    font-family: 'Yuji Hentaigana Akari', cursive;
+}

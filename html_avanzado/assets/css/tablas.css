@@ -1,0 +1,23 @@
+/*se pueden poner varias etiquetas en una linea para aplicarle estilos similares*/
+table, tr, th, td {
+    border: 1px solid black;
+}
+table{
+    width: 300px;
+    /*border: 2px dotted red;*/
+    background-color: rgb(178, 243, 114);
+}
+
+th{
+    background-color: rgb(185, 113, 253);
+    font-family: monospace;
+}
+td{
+    background-color: rgb(121, 121, 216);
+    font-family: cursive;
+    text-align: center;
+}
+h1{
+    font-family: sans-serif;
+    color: darkslategrey;
+}

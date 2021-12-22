@@ -1,0 +1,25 @@
+table,td,th,tr{
+    border: 1px solid black;
+}
+table{
+   
+    margin: auto;
+   /*text-align: center;*/
+   width: auto;
+   height: auto;
+}
+body{
+    background-color: aqua
+}
+h1{
+    text-align: center;
+}
+.naranja{
+    background-color: orange;
+}
+.verde{
+    background-color: greenyellow;
+}
+.negro{
+    background-color: black;
+}
