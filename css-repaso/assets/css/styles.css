@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+/*header*/
+.menu{
+    background-color: #127f83;
+    height: 50px;
+}
+
+.menu ul{
+    width:800px ;
+    margin: 0 auto;
+    width: max-content;
+
+}
+.menu .elemento{
+    display: inline;
+    margin: 0 20px; 
+    padding: 10px;
+}
+
+.elemento{
+    display: inline;
+    margin: 0  20px;
+    /*margin: superior derecha inferior izquierda;*/
+    
+}
+/*.menu .elemento:hover{
+    background-color: rgb(233, 233, 233);
+}*/
+.elemento a {
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+    line-height: 50px;
+    font-family: 'Oswald', sans-serif;
+    transition: color 0.3s;
+}
+.elemento a:hover{
+    color: black;
+    /*font-size: 30px;*/
+}
+
+/*Main*/
+
+
+/*Footer*/
